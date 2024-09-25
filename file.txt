@@ -1,0 +1,182 @@
+=>Enviroment
+    (i) Text Editor
+    (ii) Integrated Development Enviroment (IDE)
+    *** Jetbrain 
+
+=> Who Use Python
+    1. Software Developers
+        Backend Developers , web applications (eg. Django , Flask )
+    2. Data Scientists and Analysts
+        Data analysis, data visualization and statistical modeling
+    3. AI (Artificial Intelligence) and ML  (Machine Learning)
+        TensorFlow,Pytorch,Keras
+    4. Engineers
+        automation,simulations , ( eg. Raspberry Pi )
+    5. Cyber Security
+        creating custom security tools
+    6. Game Developers
+        Pygame
+
+
+=> What is programming
+1. Creating Algorithms
+    sorting to number and datas 
+2. Writing Code
+    programmer have to code (Python,java,C++,etc...)
+3. Compiling or Interpreting Code   
+        Code : All code in one time
+        Intepreter : Code in one line
+4. Problem-solving
+5. Debugging
+    Bug
+6. Testing
+    Test Program
+7. Creating Software applications
+    Create Software (web app, mobile app, desktop app)
+8.Automation
+    Repetitive Process
+9.Building user Interface (UI)
+10. Maintaing and Optimizing
+
+=>what is programmer
+1.Writing Code 
+2.Creating Software applications
+    web Development
+    mobile Developement
+    Game Developement
+    Data Science
+    Cybersecurity
+3.Problem solving
+4. Testing Debugging
+5.Optimizing Code
+6.Collaboration
+    Developers,Desginer,Project Manager
+7.Maintaing Software
+
+
+
+=> What is PRogramming Language
+1.Syntax
+2.Instruction
+3.Data Types
+4. Compilers and Interpreters
+    Compilers Language : (C,C++,Go(Goland).etc)
+    Intepreters Language : Python
+5. Variables and Functions
+6. Hight-level or Low Language
+    Hight-level Language(Python,java etc...)
+    Low-level Languages (Assembly, Machine Code)
+
+Hight-level Language
+Assembly Code 
+Machine Language
+Hardware
+
+=> Markup Language vs Programming Language
+    Markup =  Description
+    Programming = order
+
+=> Compilers vs Interpreters
+
+    (Compilers = soruce code to Machine Code)
+    1.   Program.go 
+
+        import 'fmt'
+
+        Func myfun(){
+            fmt.PrintIn("Hello Aung Aung");
+        }
+
+    2. Compiling
+        go build -o program program.go
+
+    3. Linking
+        Go Runtime, libraties,dependency Files, Binary File
+
+=> Interpreter
+
+    Python source code -> byte code (-pyc format) -> Interpreted line by the (Python Virtual Machine (PVM))
+
+=>How Python Code work?
+
+    Interpreted Language
+    Compilation and Interpretation , are both included
+
+    1.Python source code(.py)
+        print ("HELLO AUNG AUGN)
+    2.Interpretation
+    3.byte code (.pyc format)
+        Bytecode is Platform-independent
+        PVM-> CPU -> run
+    4. Just-in-Time (JLT) Compilation
+
+
+=>Advantage of Python Programming Language
+
+1. Easy Syntax
+    print("Helllo World")
+2. Interpreted Language
+3. Hight-lower Language
+4. Dynamic Type Language    
+     eg : Statically Type 
+
+
+
+    
+    eg :(Python Example code)
+
+    x = 10 #Integer 
+    name = "Maung Maung" # string
+
+    print ("x value is " +x)   
+    print ("name value is " + name )
+
+5. General purpose Language
+    web Developement
+    Data analysis
+    Machine Learning
+    Artificial Intelligence
+    Game Development 
+    Mobile Applications 
+    
+   
+https://www.python.org/
+
+sudo apt update
+sudo apt upgrade -y
+
+sudo apt install python3
+
+
+=> Install on Ubuntu
+
+ls 
+tar --xvf Python-3.12.6.tar.xy
+ls
+cd Python-3.12 
+./configure
+make
+sudo make install  
+
+
+
+
+=>Check Version
+python3 --version 
+python3.12 --version
+python3
+ctl+d(or) exit()
+
+
+python3 l1sample.py
+python l1sample.py
+py l1sample.py 
+
+
+=> Comment (inline comment)
+
+#
+
+
+ctrl+shf+x = extension
+ctrl+b = hide file / show file
